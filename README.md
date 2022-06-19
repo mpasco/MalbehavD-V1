@@ -21,9 +21,9 @@ The analysis environment has  five main components and the network architecture 
 
 ![Dynamic Analysis Environment1](https://user-images.githubusercontent.com/18678162/174477553-998fefd0-c129-43c6-aebd-9f6d78fa0d84.png)
 
+Figure 1: Analysis Environment used to generate MalbehavD-V1
 
+#### Citing the dataset
+Please use the BIB format provided below to cite MalbehavD-V1 when you use it in your work.
 
-#### Citing the pataset
-Please use the format provided below to cite MalbehavD-V1 as when you use it in your work.
-
-BiB: 
+BIB: 
