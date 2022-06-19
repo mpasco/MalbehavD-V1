@@ -1,7 +1,7 @@
-# MalbehavD-V1
-MalBehvaD-V1 is a new dynamic dataset of API calls sequences extracted from Windows benign and malwareportable executables (PE) program files using the dynamic analysis approach. Each file was executable in an isolated environment powered by the Cuckoo sandbox.  Malware samples were collected from VirusTotal while benign samples were collected from CNET site (https://download.cnet.com/). Only malware samples submitted in the second quarter of 2021 were used and each benign file was submitted to VirusTotal Online Engine (https://www.virustotal.com/gui/home/upload) to check if it does not possess any malicious characteristics.
+# MalbehavD-V1 (API calls Dataset)
+MalBehvaD-V1 is a new dynamic dataset of API calls sequences extracted from benign and malware portable executables (PE) program/files in Windows using the dynamic analysis approach. Each file was executed in an isolated environment powered by the Cuckoo sandbox.  Malware samples were collected from VirusTotal while benign samples were collected from CNET site (https://download.cnet.com/). Only malware samples submitted in the second quarter of 2021 were used and each benign file was submitted to VirusTotal Online Engine (https://www.virustotal.com/gui/home/upload) to check if it does not possess any malicious characteristics or behaviour.
 #### Dataset Composition
-Te dataset composition consists of 1278 bening files and 1287 malicicious files, creating a total of 2500 files in the whole dataset.
+The dataset composition consists of 1285 bening files and 1285 malicicious files, creating a total of 2570 files in the whole dataset.
 #### Categories of Malware in the dataset
 The MalbehavD-V1 has the behavioural characteristics of current emerging malware such as ransomware, worms, Viruses,
 Spyware, backdoor, adware, keyloggers, Trojans, and rootkits. The dataset has been processed to remove all inconsistencies/noise, making it ready to be used for evaluating the performance of machine learning and deep
