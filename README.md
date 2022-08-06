@@ -1,4 +1,4 @@
-# Windows API Calls Dataset: MalbehavD-V1
+# MalbehavD-V1: A Dataset of API Calls Extracted from Malware and Benign Executable Files in Windows: 
 MalBehvaD-V1 is a new dynamic dataset of API call sequences extracted from benign and malware executables files (EXE files) in Windows using the dynamic malware analysis approach. Each file was executed in an isolated environment powered by the Cuckoo sandbox.  Malware samples were collected from VirusTotal while benign samples were collected from the CNET site (https://download.cnet.com/). Only malware samples submitted in the second quarter of 2021 were used and each benign file was submitted to VirusTotal Online Engine (https://www.virustotal.com/gui/home/upload) to check if it does not possess any malicious characteristics or behaviours.
 #### Dataset Composition
 The dataset consists of 1285 benign files and 1285 malicious files, creating a total of 2570 files in the whole dataset.
