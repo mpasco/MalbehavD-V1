@@ -37,8 +37,12 @@ https://utopianknight.com/malware/cuckoo-installation-on-ubuntu-20/
 If you use MalbehavD-V1 dataset in your work, please cite it  as follows:
 
 @article{maniriho2022maldetconv,
+
   title={MalDetConv: Automated Behaviour-based Malware Detection Framework Based on Natural Language Processing and Deep Learning Techniques},
+  
   author={Maniriho, Pascal and Mahmood, Abdun Naser and Chowdhury, Mohammad Jabed Morshed},
+  
   journal={arXiv preprint arXiv:2209.03547},
+  
   year={2022}
 }
