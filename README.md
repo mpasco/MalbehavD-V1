@@ -36,3 +36,19 @@ https://utopianknight.com/malware/cuckoo-installation-on-ubuntu-20/
 #### Citing the dataset
 If you use MalbehavD-V1 dataset in your work, please cite it  as follows:
 
+ @article{maniriho2023api,
+ 
+  title={API-MalDetect: Automated malware detection framework for Windows based on API calls and deep learning techniques},
+  
+  author={Maniriho, Pascal and Mahmood, Abdun Naser and Chowdhury, Mohammad Jabed Morshed},
+  
+  journal={Journal of Network and Computer Applications},
+  
+  pages={103704},
+  
+  year={2023},
+  
+  publisher={Elsevier}
+  
+}
+
